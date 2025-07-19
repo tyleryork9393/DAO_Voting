@@ -49,6 +49,8 @@ Key Features:
 
 
 **Usage in Remix IDE**
+
+
 [1] Setup:
 Open Remix IDE.
 Create two files: MockGovernanceToken.sol and DAO_Voting.sol.
