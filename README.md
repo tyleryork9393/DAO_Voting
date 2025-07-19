@@ -1,6 +1,6 @@
 **DAO Voting Consensus System**
 
-Overview
+Overview: 
 This project demonstrates a decentralized autonomous organization (DAO) voting system built on Ethereum using Solidity smart contracts. It showcases foundational blockchain infrastructure, including token governance and consensus mechanisms for proposal creation, voting, and execution. The system emphasizes security features such as reentrancy guards, quorum requirements, and dynamic vote weighting to prevent manipulation by large token holders (e.g., whales) and ensure fair decentralized decision-making.
 
 **Key concepts:**
