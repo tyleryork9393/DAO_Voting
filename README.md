@@ -1,6 +1,7 @@
 **DAO Voting Consensus System**
 
 Overview: 
+
 This project demonstrates a decentralized autonomous organization (DAO) voting system built on Ethereum using Solidity smart contracts. It showcases foundational blockchain infrastructure, including token governance and consensus mechanisms for proposal creation, voting, and execution. The system emphasizes security features such as reentrancy guards, quorum requirements, and dynamic vote weighting to prevent manipulation by large token holders (e.g., whales) and ensure fair decentralized decision-making.
 
 **Key concepts:**
@@ -11,7 +12,7 @@ This project demonstrates a decentralized autonomous organization (DAO) voting s
  + Testing Focus: Designed for Remix IDE simulation with test wallets, minting, and multi-wallet voting to illustrate real-world DAO operations.
 This portfolio project highlights proficiency in Solidity development, smart contract architecture, and blockchain engineering principles.
 
-Prerequisites
+Prerequisites:
  + Remix IDE: Use the online Remix Ethereum IDE (remix.ethereum.org) for compilation, deployment, and testing on a simulated blockchain (e.g., JavaScript VM).
  + Solidity Version: Compatible with Solidity ^0.8.0.
  + No External Dependencies: Relies on OpenZeppelin imports for ERC20, Ownable, ReentrancyGuard, and Pausable (include via Remix file imports or GitHub URLs).
